@@ -126,14 +126,6 @@
 			<scope>test</scope>
 		</dependency>
 
-
-      <dependency>
-          <groupId>org.codehaus.groovy</groupId>
-          <artifactId>groovy-all</artifactId>
-          <version>2.4.1</version>
-          <scope>provided</scope>
-      </dependency>
-
       <dependency>
           <groupId>org.spockframework</groupId>
           <artifactId>spock-core</artifactId>
